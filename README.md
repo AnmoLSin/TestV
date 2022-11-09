@@ -14,6 +14,6 @@ The Team RCB has submitted its team for an upcoming match. The details of the te
 
 1. Create maven project in Ecplise IDE
 2. In pom.xml file, add Selenium, Rest Assured and TestNG dependencies.
-3. Under the src/test/java create a package and create a class "QuerySolution" under that package.
+3. Under the src/test/java/tests create a package and create a class "QuerySolution" under that package.
 4. Create two test methods "Test_1()", "Test_2()" and insert assertions using TestNG library.
 5. Click on "Run All" option for the whole class assertion execution.
